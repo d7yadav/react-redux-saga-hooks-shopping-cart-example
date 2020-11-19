@@ -6,6 +6,7 @@ A simple e-commerce product page in React, Redux, saga and Hooks .Where user is 
 
 
 Installation
+
 Clone the repo in your terminal by clicking the green clone or download button at the top right and copyin the url
 
 In your terminal, type git clone URL
